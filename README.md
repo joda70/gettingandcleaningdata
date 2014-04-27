@@ -1,4 +1,4 @@
-getting and cleaning data
+Getting And Cleaning Data
 =========================
 
-Getting and Cleaning Data
+Project 1
